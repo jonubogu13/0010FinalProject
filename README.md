@@ -6,13 +6,13 @@ This project attempts to discover the best neighborhood in Pittsburgh for a crim
 ## Datasets: 
 + <a href="https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency">Property Tax Delinquency</a>
   + Description: *This dataset lists Pittsburgh properties with overdue property taxes and how much they owe.*
-  + Contributer: *John Onubogu* 
+  + Associated Notebook Contributer: *John Onubogu* 
 + <a href="https://data.wprdc.org/dataset/pbp-fire-arm-seizures">Police Firearm Seizures</a>
   + Description: *This dataset shows firearms seized by Pittsburgh police, including when and where they were confiscated.*
-  + Contributer: *John Onubogu*
+  + Associated Notebook Contributer: *John Onubogu*
 + <a href="https://data.wprdc.org/dataset/arrest-data">Police Arrests</a>
   + Description: *This dataset lists arrests made by Pittsburgh police, including details like date, location, and charges.*
-  + Contributer: *Vanshaj Assudani*
+  + Associated Notebook Contributer: *Vanshaj Assudani*
  
 ## Metadata
 Canvas Group Number: **21**  
