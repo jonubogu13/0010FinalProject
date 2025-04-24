@@ -23,6 +23,7 @@ This project attempts to discover the best neighborhood in Pittsburgh for a crim
 1. Run 'john_notebook.ipynb' (contains 2 metrics, will take a little long to run)
 2. Run 'vanshaj_notebook.ipynb'
 3. Run 'final_notebook.ipynb' (This will print the single best neighborhood, or look at the generated file for more detailed results)
+4. Run 'final_notebook_pt2.ipynb' (This contains the combined notebook and the analysis)
 
 ## Additional Info
 
